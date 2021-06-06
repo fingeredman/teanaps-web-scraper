@@ -1,0 +1,145 @@
+0	1	5	-1	10ga****	2020.12.01. 00:53	172	16	아니 환경보호 알겠는데.. 이걸 꼭 지금 해야함?? 코로나땜에 일회용 쓰는게 각자 좋은거지 알바생들이 컵 하나하나 정성스럽게 씻겠냐? 글고 밖에서 누가 컵을 들고다니고싶나.ㅡㅡ 글고 다 마시면 내 컵은 어디서 씻으라고, 화장실?	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+1	0	0	0	pean****	2020.12.01. 01:51	6	2	집없나봐 ㅠㅠ	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+2	0	0	0	miss****	2020.12.01. 01:52	9	4	텀블러들고다니다가 집에서 씻어야지 ㅡㅡ 카페갈땐 자기가 씻어가야지뭔 알바생이 씻어	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+3	0	0	0	s80j****	2020.12.01. 02:44	4	1	miss 각업체다회용기를 전국민한테 지급하냐? 집에서 씻어가게? 그건 개인텀블러고 쟤얘기는 업체다회용컵얘기자나.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+4	0	0	0	an_e****	2020.12.01. 04:12	3	0	주방에서 컵 한번 안 씻어본 사람이군요. 환경보호 알기는 그냥 무시하는구만.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+5	0	0	0	10ga****	2020.12.04. 03:59	0	0	커피숍 가는 사람들이 전부 집->커피숍->집 하는줄 아시네.ㅋㅋㅋ 다 주부님들인가보네여	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+6	1	2	-1	silv****	2020.12.01. 01:30	94	3	포장이나 배달 하라며~~~~~~~~~맨날 앞뒤가 안맞냐 이나라는	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+7	1	1	-1	lsml****	2020.12.01. 00:36	72	4	일회용품 줄이는건 좋은데... 코로나 시대 매장에서 안먹고 테이크 아웃이나 배달할땐.. ?테이크 아웃 손님들이 컵을 들고다니진 않을거같은데	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+8	1	1	-1	iam_****	2020.12.01. 01:10	43	7	배달음식 시켜 먹으면서도 일회용기 보면 무서운 생각이 듭니다	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+9	0	0	8	leem****	2020.12.02. 15:53	0	1	왜일회용품을카페만규제하냐배달음식시키면카페의몇배더많이일회용품에음식담겨온다배달음식일회용품이더많고더규제해야한다	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+10	1	0	-1	hero****	2020.12.01. 01:25	33	11	다같이살려면 지금힘들어도참고실천해야할듯 더이상 일회용버릴곳이없음	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+11	1	1	-1	kabi****	2020.12.01. 01:59	8	2	ㅋㅋ 배달도 엄청 늘어나서 일회용품 얼마나 늘었는데...뜬금없이 또 카페,패스트푸드점?? 이 시국에도 여기만 만만하냐?? 공동주택 일회용품 사용량 먼저 봐라!! 과연 카페사용량이 몇프로되는지!!	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+12	1	0	-1	sapo****	2020.12.01. 05:53	7	1	개인방역에 신경써야되는 지금 상황에 너도나도 돌려쓰는 컵 사용하라는 대단한 정부~!!! 정말 볼수록 신박한 애들이네~!!!	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+13	1	0	-1	hari****	2020.12.01. 04:22	6	0	ㅋㅋㅋ 아니 어차피 2단계부터는 포장만 하니까 전부 일회용 컵인데 이딴게 무슨 소용임 ㅋㅋㅋㅋ 전국 절반 이상이 지금 2단계 이상인데 ㅋㅋㅋㅋ	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+14	1	1	-1	zayt****	2020.12.01. 10:23	6	1	커피숍을 운영중입니다. 테이크아웃만 하라면서 1회용컵을 사용하지말라는건 장사하지말라는거죠? 이거 기획한사람과 결재해준사람은 새대가리인가요? 돌대가리인가요?	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+15	0	0	14	emai****	2020.12.02. 15:14	0	0	작성자에 의해 삭제된 댓글입니다.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+16	1	0	-1	khb9****	2020.12.01. 04:59	4	0	과대포장도 이참에 좀 잡아라	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+17	1	0	-1	wont****	2020.12.01. 03:36	4	0	이건 먼 개소리야	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+18	1	0	-1	00pi****	2020.12.01. 02:04	4	0	배달음식에서 플라스틱이 더 많이 나옴~플라스틱 제제보다 친환경용기나 제품들 개발과 단가 경쟁력을 키워라! 지금 중요한건 흔히 쓰는 플라스틱 일회용품을 대체할 친환경 제품의 대중화다!	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+19	1	0	-1	wldu****	2020.12.01. 04:10	3	0	이번엔 포장으로 편가르기ㅋㅋㅋ음식점 포장도 1회용기인데...커피숍 테이크아웃도 1회용기...음식점은 먹어도 되고 커피숍은 먹음 안되고..편가르기의 끝은 어디일까	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+20	1	0	-1	s80j****	2020.12.01. 02:42	3	0	업주한테 종이에 전번하고 일회용기주세요 써서 줘야겠네.요청사실입증해야하니. ㅋㅋ	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+21	1	0	-1	dcel****	2020.12.01. 02:25	3	0	배달이랑 대기업들 제품 포장하는거나 규제해라!! 개인이 하니 만만한 카페랑 프차만 잡지말고	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+22	1	0	-1	rudc****	2020.12.01. 00:49	3	0	그너무 규제에 눌러 죽계다,,,,규제 많이 하니까 좋냐????	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+23	1	1	-1	hyuk****	2020.12.01. 04:42	2	0	백날 댓글 달아봐야 소용없고, 선거를 하세요 들고있는 휴대폰으로 선거철에 그사람 선거공약 이런걸 보고 투표하세요 남의 댓글이나보고 마녀사냥에 선동되지말고..	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+24	0	0	23	andy****	2020.12.03. 09:20	0	0	작성자에 의해 삭제된 댓글입니다.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+25	1	1	-1	vome****	2021.04.22. 19:54	0	0	작성자에 의해 삭제된 댓글입니다.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+26	0	0	25	hyej****	2020.12.13. 22:24	0	0	작성자에 의해 삭제된 답글입니다.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+27	0	0	25	xogu****	2021.01.03. 12:36	0	0	작성자에 의해 삭제된 댓글입니다.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+28	1	0	-1	iwil****	2020.12.01. 12:12	1	0	미친 정권 배달시 1회용품은 어쩔거냐? 모든정책이 형평성도 없고 그냥 내려와라 . 능력 안되는 것들이 자리 차지하고 앉아있냐?	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+29	0	0	28	caff****	2021.05.19. 22:42	0	0	작성자에 의해 삭제된 댓글입니다.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+30	1	0	-1	olle****	2020.12.01. 04:48	1	0	이것들은 근본적인 해결은 안하고 일회용품 줄인답시고 항상 편의점이랑 커피숍만 잡어 ㅋㅋㅋㅋ	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+31	1	0	-1	lya1****	2020.12.01. 00:49	1	0	일회용품프라스틱 소상공인 배달음식집이 엄청납니다양념다묻어서 재활용도안되고 ㅠㅜ에휴 배달하라고 해놓고 프라스틱규제는 엄한데만 하는구료소상공인배달음식점 프라스틱은 어쩔거냐구요배달때문에 프라스틱어마어마하다 재앙이되어 인간에게돌아옵니다	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+32	1	1	-1	sexy****	2020.12.03. 17:58	0	0	작성자에 의해 삭제된 댓글입니다.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+33	1	0	-1	akfl****	2020.12.01. 01:06	1	1	먹지말자 장사싹다망할듯	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+34	1	0	-1	suis****	2020.12.15. 13:38	0	0	적어도 코로나 해결될 때까지는 유예해야 한다. 자영업자 다 죽는다	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+35	1	0	-1	f_ni****	2020.12.02. 12:16	0	0	그냥 다 필요없고 플라스틱 사용을 줄여야함 사람들 플라스틱 쓰레기에 대한 심각성을 모름ㅜ	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+36	0	0	35	leej****	2020.12.02. 02:42	0	0	작성자에 의해 삭제된 댓글입니다.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+37	0	0	35	shin****	2020.12.30. 17:54	0	0	작성자에 의해 삭제된 댓글입니다.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+38	0	0	35	psh7****	2020.12.01. 10:57	0	0	클린봇이 부적절한 표현을 감지한 댓글입니다.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+39	0	0	35	amur****	2020.12.01. 11:03	0	0	작성자에 의해 삭제된 댓글입니다.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+40	0	0	35	prae****	2020.12.01. 12:46	0	0	작성자에 의해 삭제된 댓글입니다.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+41	0	0	35	ahxo****	2020.12.02. 00:03	0	0	작성자에 의해 삭제된 댓글입니다.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+42	1	0	-1	ury1****	2020.12.01. 07:11	0	0	지금 그나마 겨울이라 음식물 묻은게 냄새가 덜 나서 망정인데 여름에 분리수거장에서 고약한 악취가..플라스틱 음식먹은 찌꺼기 그대로 국물에 밥알 묻어있는 것까지 재활용 이라면서 버림.그런건 재활용조차 되지도 않고 수거도 안해간다 프린터물도 붙여져 있음.심지어 아파트 우체통으로도 재활용 쓰레기 배출방법 설명서 자주 넣어주는데도 개념없는 사람 은근히 많음.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+43	0	0	42	sils****	2020.12.13. 06:51	0	0	작성자에 의해 삭제된 댓글입니다.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+44	1	0	-1	wind****	2020.12.01. 05:48	0	0	이랬다가 저랬다가 나가지고 장난하나? 나 완전히 새되쓰..	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+45	1	0	-1	ippu****	2020.12.01. 05:44	0	0	타이밍이 ㅅㄹ인데 왜 지금 난리야	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+46	0	0	45	ehdq****	2021.04.15. 09:43	0	0	작성자에 의해 삭제된 댓글입니다.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+47	1	0	-1	flyo****	2020.12.01. 05:35	0	0	플라스틱 쓰레기가 왜나왔겠냐 .....진심 몰라서 이런말.. 근데 진짜 많이쓰긴해 우리나라 ㅋㅋㅋ 환경 개념없지. 나도 남말할 처지는 아니고	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+48	1	0	-1	elf_****	2020.12.01. 05:25	0	0	...뭔소리지? 그냥 먹지말란건가;;	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+49	0	0	48	cl79****	2020.12.08. 11:55	0	0	작성자에 의해 삭제된 댓글입니다.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+50	0	0	48	cl79****	2020.12.01. 04:36	0	0	작성자에 의해 삭제된 댓글입니다.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+51	1	0	-1	dudg****	2020.12.01. 04:25	0	0	보온병에 넣어달라는데 굳이 일회용컵주더니.테이크아웃밖에 안된다며? 서서 마셔? 지땡들한다.오락가락하지말고 머리좀 굴리세요 들	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+52	1	0	-1	an_e****	2020.12.01. 04:10	0	0	이제 진짜 텀블러 들고다녀야겠다..	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+53	1	0	-1	10sp****	2020.12.01. 03:57	0	0	걍 집에서 물만마셔라ㅋㅋㅋ	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+54	0	0	53	sant****	2020.12.17. 15:48	0	0	작성자에 의해 삭제된 댓글입니다.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+55	0	0	53	dest****	2020.12.02. 22:56	0	0	작성자에 의해 삭제된 댓글입니다.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+56	1	0	-1	zzz9****	2020.12.01. 03:48	0	0	고객이요구하면합법ᆢ웃기네ᆢ	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+57	1	0	-1	zzz9****	2020.12.01. 03:47	0	0	포장도못파네ᆢㅋㅋ	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+58	1	0	-1	kimh****	2020.12.01. 03:46	0	0	아니그럼 커피 배달 어떡해대박이넷	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+59	1	0	-1	kwon****	2020.12.01. 03:22	0	0	이제 배달도 죽이겠구만. 돈 더 풀겠네?	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+60	0	0	59	emai****	2020.12.02. 15:14	0	0	작성자에 의해 삭제된 댓글입니다.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+61	1	0	-1	wsy5****	2020.12.01. 02:42	0	0	오늘부터 카페·페스트푸드점 일회용품 사용 못해…위반시 최대 200만원	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+62	1	0	-1	hyej****	2020.12.01. 02:42	0	0	이제그럼매장서먹어도 되는겨??	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+63	1	0	-1	kiss****	2020.12.01. 02:38	0	0	그럼 주머니에싸가리?	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+64	1	0	-1	dana****	2020.12.01. 02:06	0	0	자본금많은 대형업소는 다회용컵 줄수잇고 영세업체는 죽는거다	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+65	1	0	-1	zz10****	2020.12.01. 01:42	0	0	인간들이 1회용 플라스틱과 재활용 플라스틱 교육이 안돼 있어서 그래요 우리나란 그냥 플라스틱 수거함에 재활용이든 일회용이든 버리는게 문제지	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+66	1	0	-1	hanh****	2020.12.01. 01:07	0	0	매장에서 한마디로 마시지 말라는 얘기네요...	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+67	1	0	-1	tony****	2020.12.01. 02:17	1	2	조국이가 텀블러들고 다니던데.그사람 텀블러공장 차리면 대박날듯.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215122
+0	1	8	-1	kimh****	2020.12.01. 01:09	177	17	지금 400명 600명이 중요한게 아니라 우리나라 검사당 양성률이 5%에 달한다는거다. 검사수만 늘리면 언제든 하루 1000명이상도 나온다는 얘기다. 숫자놀음으로 정치방역그만하고 당장 단계격상시키지 않으면 연말연시 돌이킬수없는 대확산 시작될거다.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+1	0	0	0	newc****	2020.12.01. 01:54	19	3	통계오류죠. 걸릴만한 사람들, 증상이 있는 사람들만 받는데 5%인데, 전체 대상으로 늘리면 검사당 양성률이 줄어들겠죠. 주의할 필요는 없으나 비약하지는 맙시다	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+2	0	0	0	lee_****	2020.12.01. 03:08	6	0	감염경로를 알 수 없는 확진자가 20%까지 증가했다는데 검사를 늘려서 무증상 감염자들도 차단하는게 맞지 않나요?	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+3	0	0	0	seun****	2020.12.01. 08:20	0	0	작성자에 의해 삭제된 답글입니다.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+4	0	0	0	be_f****	2021.01.13. 04:08	0	0	작성자에 의해 삭제된 답글입니다.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+5	0	0	0	ceaw****	2020.12.01. 05:02	0	1	머가리 부족..	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+6	0	0	0	korg****	2020.12.01. 06:12	1	1	전국민 코로나 걸리는것 따위 보다는 현정부가 오래오래 힘을갖고 유지되는게 좋은게 당연한거 아니냐?	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+7	0	0	0	kjj7****	2020.12.01. 07:10	1	0	확진률 3%넘은이후 검사수 비공개로 바꿈 ㅋㅋㅋㅋㅋㅋㅋ	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+8	0	0	0	mose****	2020.12.01. 09:05	0	0	저번주만 해도 2%였는데 5%로 늘었으니 오늘부터는 훨씬 많이 나오겠지	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+9	1	7	-1	pete****	2020.12.01. 00:12	73	29	훠훠훠 500명이 안되니 수능치뤄도 문줴없겠쥐요? 북한 수험생들이 더 걱정됩뉘돠아아 쩝쩝	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+10	1	1	-1	gjal****	2020.12.01. 00:55	48	11	연기하는게 맞다고 생각함 ㄹㅇ로 이주정도만 연기하고 방역 빡세게 하면되는데 왜 일키우는지 머르겠음....	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+11	1	1	-1	dlwh****	2020.12.01. 02:38	25	1	또 확진자수 줄어든다고 1단계로 내리고 쿠폰 뿌리겠네	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+12	1	5	-1	1xrc****	2020.12.01. 00:30	85	69	박근혜 전 대통령님 죄송합니다.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+13	1	0	-1	fing****	2020.12.01. 06:51	3	0	좀 있으면 1000명 내외라고 안심할때가 올거다	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+14	1	0	-1	enfn****	2020.12.01. 02:11	4	2	누굴위한 정책인가 세금명목으로 뺏아 공무원월급주고 연금주고 잔돈남은거 복지 자식한테 백만원뺏아 부모한테 30만원주고 70만원은 누가 나눠묵나노조도 간부만 살찌고 대다수는 들러리 소수가 다수를 지배하는건 불변 공산주의이론처럼 될까 코로나 수혜는 집회못한 수혜를 누가보는가에서	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+15	1	0	-1	memo****	2020.12.01. 07:12	2	0	숫자놀이 적당히해라 문씨야	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+16	1	0	-1	sigi****	2020.12.01. 05:42	2	0	확진자늘 맘대로 늘였다줄였다하는군	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+17	1	0	-1	tado****	2020.12.01. 05:12	2	0	줄고있는건 조사지 확진자가 아니다. 어딘가에선 계속 전염중.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+18	0	0	17	gomd****	2020.12.08. 16:43	0	0	작성자에 의해 삭제된 댓글입니다.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+19	1	0	-1	brya****	2020.12.01. 02:11	3	2	얼어주으글 에어로빅은. 지금은 아무것도 안하는게 건강을 지키는 겁니다.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+20	1	0	-1	wlsw****	2020.12.01. 03:53	2	1	시험 2주 연기하고 바짝 단계올리세요 진심 답답어차피 다 고생할꺼 잠깐 참는게 훨남	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+21	0	0	20	rufj****	2021.04.15. 23:13	0	0	작성자에 의해 삭제된 댓글입니다.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+22	0	0	20	ichl****	2020.12.30. 10:37	0	0	작성자에 의해 삭제된 댓글입니다.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+23	1	0	-1	chwj****	2020.12.01. 03:44	1	0	바이러스가 실시간으로. 있는데. 정부는 하루전날에 400명대인지 알수있지? 지금, 세상이 어떤세상이고. 스마트폰 세대인데. 실시간으로. 감염자 충분히 알수 있다. 하루거리두고, 상황에 따라, 500명, 400명 발표? 왜. 꾸준히 500명대 유지하다, 다시 수를 서서히 줄이지?	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+24	0	0	23	mins****	2020.12.01. 08:52	0	0	작성자에 의해 삭제된 댓글입니다.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+25	1	0	-1	alda****	2020.12.01. 09:23	0	0	아..이번주효과가아니라 일부러 숫자줄이는듯..얼릉단계높이고가던지..지금상황이 국민들 더 죽어나는걸 모르시는듯..예나..지금이나..서민들만 죽이는구나..지들끼리 먹고살겠다는거지..에휴..	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+26	1	0	-1	dmvp****	2020.12.01. 09:13	0	0	참 k방역은 개뿔. 졸롸리 못하는게 잘하는척 쌉대더니... 딱 코리안답다. 용두사미.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+27	1	0	-1	ksh6****	2020.12.01. 07:47	0	0	훠훠훠 확진자 줄여서 발표하쉐요	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+28	0	0	27	shut****	2021.03.26. 22:13	0	0	작성자에 의해 삭제된 댓글입니다.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+29	1	0	-1	sksa****	2020.12.01. 07:13	0	0	개 쓰잘때기없는 기사를 고이 내보내는구나 늬들은	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+30	0	0	29	gksn****	2020.12.02. 02:24	0	0	작성자에 의해 삭제된 댓글입니다.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+31	1	0	-1	mose****	2020.12.01. 06:46	0	0	어제까지 주말효과 오늘부터는 폭증~~	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+32	1	0	-1	yell****	2020.12.01. 06:29	0	0	정치인이고 기득권이라면 로나는 통제의 도구로 참 좋고, 그 시기는 적절하다. '공포' '안보' 가 알아서 작동해주니	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+33	1	0	-1	kimf****	2020.12.01. 05:52	0	0	확진자 줄면 1단계 백신계약 안하고 쿠폰준비.. 또 늘어나면 5단계중 1단계 플러스 알파 1.25단계 하겠지 본인들이 저지르고 개개인 방역 미숙 이런식.. 본인들 실수 오류 인정안함.. 무지 웃긴정부..	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+34	1	0	-1	2kr1****	2020.12.01. 05:22	0	0	369?	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+35	0	0	34	wbc4****	2021.02.19. 10:36	0	0	작성자에 의해 삭제된 댓글입니다.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+36	1	0	-1	kwjb****	2020.12.01. 05:06	0	0	결국 케이 케이 자랑하다가 옆나라랑 하는게 똑같아졌어요	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+37	1	0	-1	rlaw****	2020.12.01. 04:34	0	0	줄고있네	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+38	1	0	-1	rokm****	2020.12.01. 04:21	0	0	허허허 귝민여러분 외부활동 자제해주시고 남북협력으로 코로나를 이겨냅시다 허허허	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+39	1	0	-1	sara****	2020.12.01. 03:47	0	0	수능 끝나고 뒤풀이 조심하자. 놀러가고 연말여행 모임 진짜 이제 무서워다	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+40	1	0	-1	june****	2020.12.01. 04:46	1	2	훠훠훠 국민 여러분 확진자가 줄고 있는 것은 모두 제 덕분입뉘돠아 쩝쩝	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+41	1	0	-1	jdl0****	2020.12.01. 07:13	0	1	아주숫자놀음에 장난 그만하세요	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+42	1	2	-1	hyun****	2020.12.01. 10:37	0	0	작성자에 의해 삭제된 댓글입니다.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+43	0	0	42	ciga****	2020.12.01. 05:30	2	0	풉. 마스크 안 쓰고 돌아다니는 인간들한테는 아무 말 못하면서 ㅋㅋㅋ	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+44	0	0	42	she2****	2020.12.01. 06:59	0	0	대댓님의 일만 일인 건 아닙니다	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+45	0	0	42	hyun****	2020.12.01. 10:36	0	0	작성자에 의해 삭제된 댓글입니다.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+46	1	1	-1	a181****	2020.12.01. 10:17	0	0	작성자에 의해 삭제된 댓글입니다.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+47	0	0	46	zeon****	2020.12.01. 07:22	0	0	머가리가 깨져서 그런가? 니 주변에 코로나 증상이라도 있는 사람이 있었냐? 대체 어디에서 볼 수 있는거냐 코로나로 앓는 사람이? 병원에 가면 많다고? 어거지로 검진해서 확진당한 무증상자들 얘기 하는거면 입 다물고 살어	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0005021938
+0	1	3	-1	mlpj****	2020.12.01. 01:52	12	5	지나가는 동네발바리도 3억가는거 다 알고 있음 집안사서 낙오자되고 주식안사서 패배자되고 비트코인 안사서 절망하는 우를 범하지 말기를 폭락충들 말 들으면 알그지신세 못벗어난다	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004458986
+1	0	0	0	blac****	2020.12.01. 02:50	0	0	여기저기 도배할 시간에 매매해라 코인충아 아니지 열심히 도배해야 다음 흑구한테 넘기는구나... 도배하고뎅겨	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004458986
+2	0	0	0	sina****	2020.12.08. 13:20	0	0	작성자에 의해 삭제된 답글입니다.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004458986
+3	0	0	0	qhrj****	2020.12.01. 08:21	0	0	ㅋㅋㅋㅋㅋㅋㅋㅋ열심히 사네~	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004458986
+4	1	0	-1	thef****	2020.12.01. 01:41	5	0	기사보고 천 넣었다	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004458986
+5	1	0	-1	fd20****	2020.12.01. 00:44	14	10	화나요하나 달고갑니다 말도 안되는 소리 폭락하는 꼴을 봐야 정신차리지	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004458986
+6	1	1	-1	sung****	2020.12.01. 00:57	7	3	응 튤립이라는 사람들 앞으로도 사지마~ 부탁이야~	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004458986
+7	1	0	-1	cjfg****	2020.12.01. 00:59	5	3	ㅋㅋ언론에서 떠들어댄다고 사는거 봐라 열심히들 사라 결과는 알지? 잠도 못자겠네	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004458986
+8	1	0	-1	alwl****	2020.12.01. 02:07	2	0	존버 한놈들 이제 빛보네 ㅋㅋㅋ	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004458986
+9	1	0	-1	sony****	2020.12.01. 05:37	1	0	비트코인 왜 오를거 같냐 주식에서 물량 털고 나온단 소리지... 일종의 환치기.... 해외로 송금시작	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004458986
+10	1	0	-1	momo****	2020.12.01. 01:49	1	0	기사좀 그만 올려라 개관 끄나플들아! 불쌍한 서민를 피빨아 먹으려 작업하냐	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004458986
+11	1	0	-1	4486****	2020.12.01. 04:08	1	1	펙트만 말해줄게요 코인보단 주식을 사세요~^^ 유령코인을 머하러 삽니까 ㅋ	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004458986
+12	1	0	-1	vov0****	2020.12.01. 00:23	1	1	전고점 돌파요.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004458986
+13	0	0	12	mari****	2020.12.01. 08:12	0	0	클린봇이 부적절한 표현을 감지한 댓글입니다.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004458986
+14	0	0	12	rk26****	2020.12.01. 11:33	0	0	작성자에 의해 삭제된 댓글입니다.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004458986
+15	1	0	-1	4486****	2020.12.01. 07:49	0	0	응.지금 사면 한강	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004458986
+16	1	0	-1	youh****	2020.12.01. 06:01	0	0	니나 마이사라~	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004458986
+17	1	2	-1	ykk3****	2020.12.01. 04:35	0	0	사상 최고가는 2800만입니다. 2년전	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004458986
+18	0	0	17	ykk3****	2020.12.01. 04:36	0	0	차트봐	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004458986
+19	0	0	17	didt****	2020.12.01. 19:21	0	0	작성자에 의해 삭제된 답글입니다.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004458986
+20	1	0	-1	gidi****	2020.12.01. 02:17	0	0	추격매수하지말고 적당히 단타쳐서 먹거나 폭락하면 사라	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004458986
+21	1	0	-1	ubs0****	2020.12.01. 01:36	0	0	들린다...곡소리가 곧....	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004458986
+22	0	0	21	tioz****	2020.12.01. 01:08	0	0	작성자에 의해 삭제된 댓글입니다.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004458986
+23	0	0	21	fd20****	2020.12.01. 00:43	0	0	작성자에 의해 삭제된 댓글입니다.	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004458986
+24	1	0	-1	mast****	2020.12.01. 00:12	0	0	가상화폐 관련주 날개를 달겠네요..	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004458986
+25	1	0	-1	pakh****	2020.12.01. 07:42	0	1	월급쟁이들 평생 20,30년 벌어도 고작해야 집한채.586세대와 그윗분들은는 일억에 산 집이 20억되는 운빨 좋은 행운을 가졌지만 30.40대들은 기회가 많지않으니 비트코인해서라도 돈벌어야죠 공부하면 은행예금이자와 비교불가	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004458986
+26	1	1	-1	wkd9****	2020.12.01. 00:28	1	6	가상화폐는 우아한 사기 튤립은 갖다놓으면 이쁘기라도 하지 이데이터 쪼가리는 보이지도 않아	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=015&aid=0004458986
+0	1	0	-1	sool****	2020.12.01. 08:01	4	0	미세먼지가 어찌 국내에서만 발생이되더냐? 중국발 미세먼지에 대해선 말도 못하고 애굳은 자국민만 죽이는구나	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215123
+1	1	0	-1	myun****	2020.12.01. 09:20	1	0	이게 무슨의미가 있니 그럼 올해만 따져도 미세먼지없는 봄 여름 가을이였는데 그땐 경유차들 다 집에있었냐? 결국 문제는 짱개인데 거기다가는 말못하고 똑같이 문제있는 가솔린gdi 차들도 저항 심할것같고 높으신분들도 타고다니는 차랑에 gdi니 말못하고 만만한 디젤만 조지겠다는거잖어	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0010215123
