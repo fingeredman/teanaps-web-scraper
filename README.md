@@ -9,14 +9,20 @@
 - **Contact : ADMIN(admin@teanaps.com)**
 
 ---
+## What can you do with `TEANAPS` News Article Scrapper?
+- `TEANAPS` News Article Scrapper는 네이버 뉴스기사 및 댓글 수집을 위한 웹스크래핑(크롤링) 도구입니다.
+- `TEANAPS` News Article Scrapper는 네이버 뉴스기사 검색결과를 수집하도록 하여 원하는 기간, 키워드, 개수 만큼 뉴스기사 데이터수집이 가능합니다.
+- `TEANAPS` News Article Scrapper는 10년치 이상의 뉴스기사를 수집하며 테스트 및 최적화를 진행하여 안정된 데이터 수집을 지원합니다.
+- 단, 네이버 뉴스기사 검색결과 중 네이버 플랫폼에서 제공하는 기사만 수집 가능합니다.
+
+> `#TEANAPS` `#티냅스_라고_불러주세요` `#텍스트분석` `#text_analysis` `TA` `#텍스트마이닝` `#text_mining` `#자연어처리` `#nlp` `#데이터수집` `#뉴스기사` `#네이버뉴스` `#기사댓글`
+
+---
 ## Notice! 
 > - 본 자료는 `2021 한국지능정보시스템학회 춘계 학술대회` 튜토리얼 세션을 위한 자료로 활용될 예정입니다.
 
 ---
 ## User Guide
-
-### 수집화면 예시
-> ![scrapping_sample](./sample_data/scrapping_sample.gif)
 
 ### 1. Install Selenium
 
@@ -61,7 +67,9 @@
 
 ### 4. 수집시작
 
-- 1~3번 과정 준비가 완료되면 전체 코드를 실행합니다.
+- 1~3번 과정 준비가 완료되면 전체 코드를 실행합니다. [[수집 데이터 정보(Excel)](https://github.com/fingeredman/news-article-scrapper/blob/main/sample_data/scrapping_data_desc.xlsx)]
+
+  > ![scrapping_sample](./sample_data/scrapping_sample.gif)
 
 ---
 ## Release history
