@@ -16,7 +16,7 @@
 ## `TEANAPS` Web Scrapper User Guide
 
 ### Contents
-- [News Article Scrapper](./news_scrapper/teanaps_web_scrapper_guide-news_scrapper.md#teanaps-news-article-scrapper) : 네이버 뉴스기사 및 댓글, 리액션을 수집합니다.
+- [News Article Scrapper](./news_scrapper/teanaps_web_scrapper_guide-news_scrapper.md#teanaps-news-article-scrapper) : 네이버 뉴스기사 및 댓글, 리액션을 수집합니다. ([User Guide](./news_scrapper/teanaps_web_scrapper_guide-news_scrapper.md#teanaps-news-article-scrapper) / [Jupyter Notebook](./news_scrapper/NEWS_DATA_SCRAPPING.ipynb))
 - (TBU) AppStore Review Scrapper : Apple 앱스토어 앱 리뷰 및 평점을 수집합니다.
 - (TBU) PlayStore Review Scrapper : Google 플레이스토어 앱 리뷰 및 평점을 수집합니다.
 - (TBU) Movie Review Scrapper : 영화 리뷰 및 평점을 수집합니다.
