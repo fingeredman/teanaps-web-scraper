@@ -59,7 +59,7 @@
 
 ### 4. 수집시작
 
-- 1~3번 과정 준비가 완료되면 전체 코드를 실행합니다. [[수집 데이터 정보(Excel)](./news_scrapper/sample_data/scrapping_data_desc.xlsx)]
+- 1~3번 과정 준비가 완료되면 전체 코드를 실행합니다. [[수집 데이터 정보(Excel)](https://github.com/fingeredman/news-article-scrapper/raw/main/news_scrapper/sample_data/scrapping_data_desc.xlsx)]
 
   > ![scrapping_sample](./sample_data/scrapping_sample.gif)
 
