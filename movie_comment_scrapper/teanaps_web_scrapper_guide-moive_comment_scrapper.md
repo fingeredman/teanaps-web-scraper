@@ -16,7 +16,8 @@
 - 네이버 영화 페이지에서 수집대상 영화 페이지에 접속합니다.
 - 해당 영화 페이지 URL에서 영화코드를 확인합니다.
 
-  > https://movie.naver.com/movie/bi/mi/basic.nhn?***code=189150***
+  > https://movie.naver.com/movie/bi/mi/basic.nhn?code=189150
+  > - 여기서 영화코드는 "189150" 입니다.
 
 ### 2. 수집할 영화리뷰 정보입력
 
@@ -32,9 +33,7 @@
 
 ### 3. 수집시작
 
-- 1~3번 과정 준비가 완료되면 전체 코드를 실행합니다. [[수집 데이터 정보(Excel)](https://github.com/fingeredman/teanaps-web-scrapper/raw/main/news_scrapper/sample_data/scrapping_data_desc.xlsx)]
-
-  > ![scrapping_sample](./sample_data/scrapping_sample.gif)
+- 1~2번 과정 준비가 완료되면 전체 코드를 실행합니다. [[수집 데이터 정보(Excel)](https://github.com/fingeredman/teanaps-web-scrapper/raw/main/movie_comment_scrapper/sample_data/scrapping_data_desc.xlsx)]
 
 ---
 ## Release history
