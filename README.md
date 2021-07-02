@@ -10,21 +10,22 @@
 
 ---
 ## Notice! 
-> - `TEANAPS` News Article Scrapper가 업로드 되었습니다. 뉴스기사 및 댓글을 직접 수집하고 TEANAPS를 활용해 분석해보세요.
+> - `TEANAPS` Movie Review Scrapper, News Article Scrapper가 업로드 되었습니다. 영화리뷰, 뉴스기사 직접 수집하고 TEANAPS를 활용해 분석해보세요.
 
 ---
 ## `TEANAPS` Web Scrapper User Guide
 
 ### Contents
+- [Movie Review Scrapper](./movie_comment_scrapper/teanaps_web_scrapper_guide-moive_comment_scrapper.md#teanaps-news-article-scrapper) : 영화 리뷰 및 평점을 수집합니다. ([User Guide](./movie_comment_scrapper/teanaps_web_scrapper_guide-moive_comment_scrapper.md#teanaps-news-article-scrapper) / [Jupyter Notebook](./movie_comment_scrapper/MOVIE_COMMENT_SCRAPPING.ipynb))
 - [News Article Scrapper](./news_scrapper/teanaps_web_scrapper_guide-news_scrapper.md#teanaps-news-article-scrapper) : 네이버 뉴스기사 및 댓글, 리액션을 수집합니다. ([User Guide](./news_scrapper/teanaps_web_scrapper_guide-news_scrapper.md#teanaps-news-article-scrapper) / [Jupyter Notebook](./news_scrapper/NEWS_DATA_SCRAPPING.ipynb))
 - (TBU) AppStore Review Scrapper : Apple 앱스토어 앱 리뷰 및 평점을 수집합니다.
 - (TBU) PlayStore Review Scrapper : Google 플레이스토어 앱 리뷰 및 평점을 수집합니다.
-- (TBU) Movie Review Scrapper : 영화 리뷰 및 평점을 수집합니다.
 - (TBU) Naver Cafe Scrapper : 네이버 카페 게시글 및 댓글을 수집합니다.
 
 ---
 ## Update History
-> 2021.06.27. `TEANAPS` Web Scrapper 업데이트  
+> 2021.07.03. Movie Review Scrapper 업로드  
+> 2021.06.27. `TEANAPS` Web Scrapper 업데이트, News Article Scrapper 업로드  
 > 2021.06.06. `User Guide` 업데이트  
 > 2021.05.30. 기본 구성 입력  
 
