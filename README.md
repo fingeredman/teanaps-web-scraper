@@ -10,7 +10,8 @@
 
 ---
 ## Notice! 
-> - `TEANAPS` Movie Review Scrapper, News Article Scrapper가 업로드 되었습니다. 영화리뷰, 뉴스기사 직접 수집하고 TEANAPS를 활용해 분석해보세요.
+> - `TEANAPS` Movie Review Scrapper, News Article Scrapper, AppStore Review Scrapper, PlayStore Review Scrapper가 업로드 되었습니다.
+> - 텍스트 데이터를 직접 수집하고 [`TEANAPS`](https://github.com/fingeredman/teanaps#teanaps-text-analysis-apis-for-ecucation)를 활용해 분석해보세요.
 
 ---
 ## `TEANAPS` Web Scrapper User Guide
@@ -18,8 +19,8 @@
 ### Contents
 - [Movie Review Scrapper](./movie_comment_scrapper/teanaps_web_scrapper_guide-moive_comment_scrapper.md#teanaps-news-article-scrapper) : 영화 리뷰 및 평점을 수집합니다. ([User Guide](./movie_comment_scrapper/teanaps_web_scrapper_guide-moive_comment_scrapper.md#teanaps-news-article-scrapper) / [Jupyter Notebook](./movie_comment_scrapper/MOVIE_COMMENT_SCRAPPING.ipynb))
 - [News Article Scrapper](./news_scrapper/teanaps_web_scrapper_guide-news_scrapper.md#teanaps-news-article-scrapper) : 네이버 뉴스기사 및 댓글, 리액션을 수집합니다. ([User Guide](./news_scrapper/teanaps_web_scrapper_guide-news_scrapper.md#teanaps-news-article-scrapper) / [Jupyter Notebook](./news_scrapper/NEWS_DATA_SCRAPPING.ipynb))
-- (TBU) AppStore Review Scrapper : Apple 앱스토어 앱 리뷰 및 평점을 수집합니다.
-- (TBU) PlayStore Review Scrapper : Google 플레이스토어 앱 리뷰 및 평점을 수집합니다.
+- [AppStore Review Scrapper](./appstore_review_scrapper/teanaps_web_scrapper_guide-appstore_review_scrapper.md#teanaps-appstore-review-scrapper) : Apple 앱스토어 앱 리뷰 및 평점을 수집합니다. ([User Guide](./appstore_review_scrapper/teanaps_web_scrapper_guide-appstore_review_scrapper.md#teanaps-appstore-review-scrapper) / [Jupyter Notebook](./appstore_review_scrapper/APPSTORE_REVIEW_SCRAPPING.ipynb))
+- [PlayStore Review Scrapper](./playstore_review_scrapper/teanaps_web_scrapper_guide-playstore_review_scrapper.md#teanaps-playstore-review-scrapper) : Google 플레이스토어 앱 리뷰 및 평점을 수집합니다. ([User Guide](./playstore_review_scrapper/teanaps_web_scrapper_guide-playstore_review_scrapper.md#teanaps-playstore-review-scrapper) / [Jupyter Notebook](./playstore_review_scrapper/PLAYSTORE_REVIEW_SCRAPPING.ipynb))
 - (TBU) Naver Cafe Scrapper : 네이버 카페 게시글 및 댓글을 수집합니다.
 
 ---
