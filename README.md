@@ -25,6 +25,7 @@
 
 ---
 ## Update History
+> 2021.07.10. AppStore Review Scrapper, PlayStore Review Scrapper 업로드  
 > 2021.07.03. Movie Review Scrapper 업로드  
 > 2021.06.27. `TEANAPS` Web Scrapper 업데이트, News Article Scrapper 업로드  
 > 2021.06.06. `User Guide` 업데이트  
