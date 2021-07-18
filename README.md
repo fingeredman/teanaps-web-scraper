@@ -10,7 +10,7 @@
 
 ---
 ## Notice! 
-> - `TEANAPS` Movie Review Scrapper, News Article Scrapper, AppStore Review Scrapper, PlayStore Review Scrapper가 업로드 되었습니다.
+> - `TEANAPS` 영화리뷰, 뉴스기사, 앱 리뷰 수집을 위한 Web Scrapper가 업로드 되었습니다.
 > - 텍스트 데이터를 직접 수집하고 [`TEANAPS`](https://github.com/fingeredman/teanaps#teanaps-text-analysis-apis-for-ecucation)를 활용해 분석해보세요.
 
 ---
