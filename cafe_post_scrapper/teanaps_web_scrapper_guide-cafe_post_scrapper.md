@@ -40,6 +40,8 @@
 
 - 1~2번 과정 준비가 완료되면 전체 코드를 실행합니다. [[수집 데이터 정보(Excel)](https://github.com/fingeredman/teanaps-web-scrapper/raw/main/cafe_post_scrapper/sample_data/scrapping_data_desc.xlsx)]
 
+  > ![scrapping_sample](./sample_data/scrapping_sample.gif)
+
 ---
 ## Release history
 > 2021.10.02. `teanaps-cafe-post-scrapper v1.0.0` 업데이트   
