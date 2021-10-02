@@ -32,13 +32,13 @@
   >                                    # 전체 URL에서 맨 뒤 페이지 번호는 제거하고 입력합니다. (URL = "~search.page=")
   > URL = "https://cafe.naver.com/dieselmania?iframe_url=/ArticleSearchList.nhn%3Fsearch.clubid=11262350%26search.media=0%26search.searchdate=all%26userDisplay=15%26search.option=0%26search.sortBy=date%26search.searchBy=0%26search.query=%C3%BB%B9%D9%C1%F6%26search.viewtype=title%26search.page="
   > PAGE_LIMIT = 3                     # 검색결과 중 수집할 최대 페이지 수를 입력합니다. (검색결과 페이지 수 보다 적게 입력)
-  > POST_LIMIT = 5.                    # 수집할 최대 게시글 수를 입력합니다.
+  > POST_LIMIT = 5                     # 수집할 최대 게시글 수를 입력합니다.
   > SAVE_FILENAME = "cafe_post.txt"    # 수집결과를 저장할 파일명을 입력합니다.
   > ``` 
 
 ### 3. 수집시작
 
-- 1~2번 과정 준비가 완료되면 전체 코드를 실행합니다. [[수집 데이터 정보(Excel)](https://github.com/fingeredman/teanaps-web-scrapper/raw/main/movie_comment_scrapper/sample_data/scrapping_data_desc.xlsx)]
+- 1~2번 과정 준비가 완료되면 전체 코드를 실행합니다. [[수집 데이터 정보(Excel)](https://github.com/fingeredman/teanaps-web-scrapper/raw/main/cafe_post_scrapper/sample_data/scrapping_data_desc.xlsx)]
 
 ---
 ## Release history
