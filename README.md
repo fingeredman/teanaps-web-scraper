@@ -10,7 +10,7 @@
 
 ---
 ## Notice! 
-> - `TEANAPS` 영화리뷰, 뉴스기사, 앱 리뷰 수집을 위한 Web Scrapper가 업로드 되었습니다.
+> - 영화리뷰, 뉴스기사, 앱 리뷰, 카페  수집을 위한 `TEANAPS` Web Scrapper가 업로드 되었습니다.
 > - 텍스트 데이터를 직접 수집하고 [`TEANAPS`](https://github.com/fingeredman/teanaps#teanaps-text-analysis-apis-for-ecucation)를 활용해 분석해보세요.
 
 ---
@@ -21,10 +21,11 @@
 - [News Article Scrapper](./news_scrapper/teanaps_web_scrapper_guide-news_scrapper.md#teanaps-news-article-scrapper) : 네이버 뉴스기사 및 댓글, 리액션을 수집합니다. ([User Guide](./news_scrapper/teanaps_web_scrapper_guide-news_scrapper.md#teanaps-news-article-scrapper) / [Jupyter Notebook](./news_scrapper/NEWS_DATA_SCRAPPING.ipynb))
 - [AppStore Review Scrapper](./appstore_review_scrapper/teanaps_web_scrapper_guide-appstore_review_scrapper.md#teanaps-appstore-review-scrapper) : Apple 앱스토어 앱 리뷰 및 평점을 수집합니다. ([User Guide](./appstore_review_scrapper/teanaps_web_scrapper_guide-appstore_review_scrapper.md#teanaps-appstore-review-scrapper) / [Jupyter Notebook](./appstore_review_scrapper/APPSTORE_REVIEW_SCRAPPING.ipynb))
 - [PlayStore Review Scrapper](./playstore_review_scrapper/teanaps_web_scrapper_guide-playstore_review_scrapper.md#teanaps-playstore-review-scrapper) : Google 플레이스토어 앱 리뷰 및 평점을 수집합니다. ([User Guide](./playstore_review_scrapper/teanaps_web_scrapper_guide-playstore_review_scrapper.md#teanaps-playstore-review-scrapper) / [Jupyter Notebook](./playstore_review_scrapper/PLAYSTORE_REVIEW_SCRAPPING.ipynb))
-- (TBU) Naver Cafe Scrapper : 네이버 카페 게시글 및 댓글을 수집합니다.
+- [Naver Cafe Post Scrapper](./cafe_post_scrapper/teanaps_web_scrapper_guide-cafe_post_scrapper.md#teanaps-movie-review-scrapper) : 네이버 카페 게시글 및 댓글을 수집합니다. ([User Guide](./cafe_post_scrapper/teanaps_web_scrapper_guide-cafe_post_scrapper.md#teanaps-movie-review-scrapper) / [Jupyter Notebook](./cafe_post_scrapper/CAFE_POST_SCRAPPING.ipynb))
 
 ---
 ## Update History
+> 2021.10.02. Naver Cafe Post Scrapper 업로드  
 > 2021.07.10. AppStore Review Scrapper, PlayStore Review Scrapper 업로드  
 > 2021.07.03. Movie Review Scrapper 업로드  
 > 2021.06.27. `TEANAPS` Web Scrapper 업데이트, News Article Scrapper 업로드  
