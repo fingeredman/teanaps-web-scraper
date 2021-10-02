@@ -1,6 +1,6 @@
-# `TEANAPS` Movie Review Scrapper
+# `TEANAPS` Naver Cafe Post Scrapper
 
-> `TEANAPS` Movie Review Scrapper는 네이버 뉴스기사 및 댓글 수집을 위한 웹스크래핑(크롤링) 도구입니다. 네이버 뉴스기사 검색결과를 수집 대상으로 하며 키워드 검색으로 원하는 기간, 개수 만큼 뉴스기사 데이터수집이 가능합니다. 본 자료는 10년치 이상의 뉴스기사를 수집하며 테스트 및 최적화를 진행하여 안정된 데이터 수집을 지원합니다. 직접 뉴스기사 데이터를 수집하고 [`TEANAPS`](https://github.com/fingeredman/teanaps#teanaps-text-analysis-apis-for-ecucation)를 활용해 텍스트 분석에 활용해보세요.
+> `TEANAPS` Naver Cafe Post Scrapper는 네이버 카페 게시글 및 댓글 수집을 위한 웹스크래핑(크롤링) 도구입니다. 네이버 카페 내 검색결과를 수집 대상으로 하며 키워드 검색으로 원하는 기간, 게시판 대상으로 데이터 수집이 가능합니다. 본 자료는 수십만 개 이상의 네이버 카페 게시글을 수집하며 테스트 및 최적화를 진행하여 안정된 데이터 수집을 지원합니다. 직접 네이버 카페 데이터를 수집하고 [`TEANAPS`](https://github.com/fingeredman/teanaps#teanaps-text-analysis-apis-for-ecucation)를 활용해 텍스트 분석에 활용해보세요.
 
 - 본 자료는 텍스트 마이닝을 활용한 연구 및 강의를 위한 목적으로 제작되었습니다.
 - 본 자료를 강의 또는 연구 목적으로 활용하고자 하시는 경우 꼭 아래 메일주소로 연락주세요.
