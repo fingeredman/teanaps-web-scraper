@@ -1,6 +1,6 @@
-# `TEANAPS` News Article Scrapper
+# `TEANAPS` News Article Scraper
 
-> `TEANAPS` News Article Scrapper는 네이버 뉴스기사 및 댓글 수집을 위한 웹스크래핑(크롤링) 도구입니다. 네이버 뉴스기사 검색결과를 수집 대상으로 하며 키워드 검색으로 원하는 기간, 개수 만큼 뉴스기사 데이터수집이 가능합니다. 본 자료는 10년치 이상의 뉴스기사를 수집하며 테스트 및 최적화를 진행하여 안정된 데이터 수집을 지원합니다. 직접 뉴스기사 데이터를 수집하고 [`TEANAPS`](https://github.com/fingeredman/teanaps#teanaps-text-analysis-apis-for-ecucation)를 활용해 텍스트 분석에 활용해보세요.
+> `TEANAPS` News Article Scraper는 네이버 뉴스기사 및 댓글 수집을 위한 웹스크래핑(크롤링) 도구입니다. 네이버 뉴스기사 검색결과를 수집 대상으로 하며 키워드 검색으로 원하는 기간, 개수 만큼 뉴스기사 데이터수집이 가능합니다. 본 자료는 10년치 이상의 뉴스기사를 수집하며 테스트 및 최적화를 진행하여 안정된 데이터 수집을 지원합니다. 직접 뉴스기사 데이터를 수집하고 [`TEANAPS`](https://github.com/fingeredman/teanaps#teanaps-text-analysis-apis-for-ecucation)를 활용해 텍스트 분석에 활용해보세요.
 
 - 본 자료는 텍스트 마이닝을 활용한 연구 및 강의를 위한 목적으로 제작되었습니다.
 - 본 자료를 강의 또는 연구 목적으로 활용하고자 하시는 경우 꼭 아래 메일주소로 연락주세요.
@@ -59,14 +59,14 @@
 
 ### 4. 수집시작
 
-- 1~3번 과정 준비가 완료되면 전체 코드를 실행합니다. [[수집 데이터 정보(Excel)](https://github.com/fingeredman/teanaps-web-scrapper/raw/main/news_scrapper/sample_data/scrapping_data_desc.xlsx)]
+- 1~3번 과정 준비가 완료되면 전체 코드를 실행합니다. [[수집 데이터 정보(Excel)](https://github.com/fingeredman/teanaps-web-scraper/raw/main/news_scraper/sample_data/scraping_data_desc.xlsx)]
 
-  > ![scrapping_sample](./sample_data/scrapping_sample.gif)
+  > ![scraping_sample](./sample_data/scraping_sample.gif)
 
 ---
 ## Release history
-> 2021.06.06. `teanaps-news-scrapper v1.0.1` 업데이트   
-> 2021.05.30. `teanaps-news-scrapper v1.0.0` 업데이트   
+> 2021.06.06. `teanaps-news-scraper v1.0.1` 업데이트   
+> 2021.05.30. `teanaps-news-scraper v1.0.0` 업데이트   
 
 ---
 ## Update History
